@@ -1,7 +1,7 @@
-# Backend API for Jarurat Care NGO  
+# Backend API  
 
 ## Objective  
-As a **Backend Developer** at Jarurat Care NGO, this project involves developing a backend API using **Node.js** (Express) and **MongoDB**. The API performs CRUD operations, enforces role-based access control, and includes input validation and authentication mechanisms to ensure secure and efficient data handling.  
+As a **Backend Developer** at API, this project involves developing a backend API using **Node.js** (Express) and **MongoDB**. The API performs CRUD operations, enforces role-based access control, and includes input validation and authentication mechanisms to ensure secure and efficient data handling.  
 
 ---
 
